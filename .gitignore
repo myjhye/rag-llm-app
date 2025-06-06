@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# 환경 설정
+.env
+
+# FAISS 인덱스 (선택)
+faiss_index/
